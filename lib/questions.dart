@@ -30,30 +30,41 @@ class _MyQuestionsPageState extends State<MyQuestionsPage> {
 
 // imges list for each symptom
   List<String> photos = [
-    "fever.gif", //
-    "cough.gif", //
-    "runny_nose.png", //
-    "sore_throat.png", //
-    "fatigue.png", //
-    "body_aches.json", //
-    "rash.png", //
-    "itchiness.png", //
-    "swollen_glands.png", //
-    "vomiting.png", //
-    "diarrhea.png", //
-    "abdominal_pain.png", //
-    "ear_pain.png", //
-    "sneezing.json", //
-    "itchy_eyes.png", //
-    "frequent_urination.png", //
-    "unexplained_weight_loss.png", //
-    "dehydration.png", //
-    "difficulty_breathing.png", //
-    "difficulty_sleeping.png", //
-    "blisters.png", //
-    "excessive_thirst.png", //
-    "nasal_congestion.png", //
-    "headache.png",
+    "fever.gif", //1
+    "cough.gif", //2
+    "runny_nose.png", //3
+    "sore_throat.png", //4
+    "fatigue.png", //5
+    "body_aches.json", //6
+    "rash.png", //7
+    "itchiness.png", //8
+    "swollen_glands.png", //9
+    "vomiting.png", //10
+    "diarrhea.png", //11
+    "abdominal_pain.png", //12
+    "ear_pain.png", //13
+    "sneezing.json", //14
+    "itchy_eyes.png", //15
+    "frequent_urination.png", //16
+    "unexplained_weight_loss.png", //17
+    "dehydration.png", //18
+    "difficulty_breathing.png", //19
+    "difficulty_sleeping.png", //20
+    "blisters.png", //21
+    "excessive_thirst.png", //22
+    "nasal_congestion.png", //23
+    "headache.png", //24
+    //////////////
+    "chest_pain.png", //25
+    "shortness_of_breath.png", //26
+    "heart_attack.png", //27
+    "swelling.png", //28
+    "rapid_heartbeat.png", //29
+    "palpitations.png", //30
+    "dizziness.png", //31
+    "fainting.png", //32
+    "nausea.png", //33
+    "blurred_vision.png" //34
   ];
 
   GlobalKey<FormState> formState = GlobalKey();
@@ -95,6 +106,17 @@ class _MyQuestionsPageState extends State<MyQuestionsPage> {
       "excessive_thirst",
       "nasal_congestion",
       "headache",
+      /////new ///////
+      "chest_pain",
+      "shortness_of_breath",
+      "heart_attack",
+      "swelling",
+      "rapid_heartbeat",
+      "palpitations",
+      "dizziness",
+      "fainting",
+      "nausea",
+      "blurred_vision",
     ];
 
     show = [
@@ -122,6 +144,17 @@ class _MyQuestionsPageState extends State<MyQuestionsPage> {
       "excessive thirst",
       "nasal congestion",
       "headache",
+      // ////
+      "chest pain",
+      "shortness of breath",
+      "heart attack",
+      "swelling",
+      "rapid heartbeat",
+      "palpitations",
+      "dizziness",
+      "fainting",
+      "nausea",
+      "blurred vision",
     ];
     answervalues =
         List.filled(questions.length, null); // Initialize answervalues with the same length as questions
