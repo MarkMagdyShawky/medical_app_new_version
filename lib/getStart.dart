@@ -34,7 +34,7 @@ class MyGetStartPage extends StatelessWidget {
                   ),
                   Container(
                     child: const Text(
-                      "Your love and care are the greatest gifts you can give your baby.",
+                      "Your love and care are the greatest gifts you can give to yourself.",
                       textAlign: TextAlign.center,
                       style: TextStyle(
                         fontSize: 21,
