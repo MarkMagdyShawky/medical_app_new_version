@@ -1,7 +1,5 @@
 # VitaCare an General Medical Expert System
-<p align="center">
-  <h1>VitaCare an General Medical Expert System</h1>
-</p>
+<h1 align="center">VitaCare an General Medical Expert System</h1>
 ## General version from Kiddr
 
 | Image 1 | Image 2 |
