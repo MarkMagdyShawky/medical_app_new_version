@@ -8,6 +8,5 @@
  ### General Medical Expert system (application) the you can use to check yourself online
 
 ## Features
-
-### VitaCare your personal guide to understand your health .
-### aAdvanced algorithms to asses symptoms and provide accurate diagnoses and treatment recommendations .
+- VitaCare your personal guide to understand your health .
+- Advanced algorithms to asses symptoms and provide accurate diagnoses and treatment recommendations .
