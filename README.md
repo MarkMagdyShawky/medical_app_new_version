@@ -1,4 +1,7 @@
-# VitaCare an General Medical Expert System
+<div style = "justify-content: center;">
+  # VitaCare an General Medical Expert System
+
+</div>
 ## General version from Kiddr
 
 | Image 1 | Image 2 |
