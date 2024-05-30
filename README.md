@@ -1,4 +1,4 @@
-# MVitaCare an General Medical Expert System
+# VitaCare an General Medical Expert System
 ## General version from Kiddr
 
 | Image 1 | Image 2 |
