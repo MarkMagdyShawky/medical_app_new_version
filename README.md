@@ -1,7 +1,7 @@
-<div style = "justify-content: center;">
-  # VitaCare an General Medical Expert System
-
-</div>
+# VitaCare an General Medical Expert System
+<p align="center">
+  <h1>VitaCare an General Medical Expert System</h1>
+</p>
 ## General version from Kiddr
 
 | Image 1 | Image 2 |
