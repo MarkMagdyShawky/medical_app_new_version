@@ -21,12 +21,12 @@
 - After each qusetion click next if you want to back to question scroll the question bar.
 - After finish result will loading and display in your screen
 
-  ## Dependencies
-  - Flutter
-  - Dart
-  - Firebase
-  - python
+## Dependencies
+- Flutter
+- Dart
+- Firebase
+- python
 
-  ## Future Work
-  - Add more diagnoses and treatment
-  - Some more updats in the UI
+## Future Work
+- Add more diagnoses and treatment
+- Some more updats in the UI
