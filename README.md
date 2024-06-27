@@ -4,7 +4,7 @@
 
 | Image 1 | Image 2 |
 |---------|---------|
-| ![Image 1](./Z-Applicationphotos/11.png) | ![Image 2](https://github.com/MarkMagdyShawky/medical_app_new_version/assets/106816564/75e9ccdc-5a39-41a2-9936-ab1d5bed9c09) |
+| ![Image 1](./Z-ApplicationPhotos/10.png) | ![Image 2](https://github.com/MarkMagdyShawky/medical_app_new_version/assets/106816564/75e9ccdc-5a39-41a2-9936-ab1d5bed9c09) |
  ### General Medical Expert system (application) the you can use to check yourself online
 
 ## Features
