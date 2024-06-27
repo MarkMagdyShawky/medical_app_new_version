@@ -5,16 +5,16 @@
 | Image 1 | Image 2 |
 |---------|---------|
 | ![Image 1](./Z-ApplicationPhotos/10.png) | ![Image 2](./Z-ApplicationPhotos/11.png) |
- ### General Medical Expert system (application) the you can use to check yourself online
+ ### **General Medical Expert system (application) the you can use to check yourself online**
 
-## Features
+## **Features**
 - **Personal Health Guide:** VitaCare acts as your personal health guide, assisting you in understanding and managing your medical conditions. It provides detailed information and advice based on your inputs.
 - **Advanced Symptom Assessment:** Utilizes sophisticated algorithms to evaluate symptoms and offer precise diagnoses and treatment recommendations.
 - **User Authentication:** Register and login functionality for users.
 - **Interactive Quiz:** Engaging and interactive quiz format to assess your symptoms. The quiz adapts based on your responses to gather comprehensive information for an accurate diagnosis.
 - **Detailed Reports:** Generates detailed reports of your health assessments that you can review at any time. These reports can also be shared with healthcare professionals for further consultation.
 
-## How to Use
+## **How to Use**
 - **Download and Install:** Ensure you have Flutter installed. Clone the repository and install dependencies.
 - **Register/Login:** Create a new account or login using your existing credentials or Google account.
 - **Introduction:** Optionally, read the introduction or skip it if you are already familiar with the application.
@@ -25,7 +25,7 @@
 - **Video for the app:** [Mark Medical App (Vitacare)](https://drive.google.com/file/d/1D5n3Kly3HZrRtr1zyPlUQaLUbh6EfUXT/view?usp=drivesdk)
 
 
-## Dependencies
+## **Dependencies**
 - **Flutter:** For building the user interface.
 - **Dart:** Programming language for Flutter.
 - **Firebase:** For backend services including data storage and authentication.
@@ -33,6 +33,6 @@
 - **Flutter Animation:** Enhanced UI/UX with smooth animations.
 - **Python:** For implementing advanced algorithms and other backend processes.
   
-## Future Work
+## **Future Work**
 - **Expanded Diagnoses and Treatments:** Incorporate additional medical conditions and treatment options.
 - **UI Enhancements:** Implement further updates to improve the user interface.
