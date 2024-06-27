@@ -9,7 +9,7 @@
 
 ## Features
 - **Personal Health Guide:** VitaCare acts as your personal health guide, assisting you in understanding and managing your medical conditions. It provides detailed information and advice based on your inputs.
-- **Advanced Symptom Assessment:** Utilizes cutting-edge algorithms to evaluate your symptoms and deliver accurate diagnoses along with personalized treatment recommendations. This feature leverages machine learning models trained on extensive medical data.
+- **Advanced Symptom Assessment:** Utilizes sophisticated algorithms to evaluate symptoms and offer precise diagnoses and treatment recommendations.
 - **User Authentication:** Register and login functionality for users.
 - **Interactive Quiz:** Engaging and interactive quiz format to assess your symptoms. The quiz adapts based on your responses to gather comprehensive information for an accurate diagnosis.
 - **Detailed Reports:** Generates detailed reports of your health assessments that you can review at any time. These reports can also be shared with healthcare professionals for further consultation.
@@ -22,7 +22,7 @@
 - **Answer Questions:** Respond to the questions presented (it is recommended to answer all questions for the most accurate results).
 - **Navigation:** Click 'Next' to move to the subsequent question or use the question bar to go back to previous questions.
 - **View Results:** Upon completion, the results will be processed and displayed on your screen.
-- - **Video for the app:** [Mark Medical App (Vitacare)](https://drive.google.com/file/d/1D5n3Kly3HZrRtr1zyPlUQaLUbh6EfUXT/view?usp=drivesdk)
+- **Video for the app:** [Mark Medical App (Vitacare)](https://drive.google.com/file/d/1D5n3Kly3HZrRtr1zyPlUQaLUbh6EfUXT/view?usp=drivesdk)
 
 
 ## Dependencies
